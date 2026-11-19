@@ -1,8 +1,8 @@
 class Diadem < Formula
   desc "Console DLNA media server: share a folder, watch on any screen"
   homepage "https://github.com/pandaCaffeine/diadem"
-  url "https://github.com/pandaCaffeine/diadem/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "09e888f66ccd4d6adda1ce0cd49245c79b1832bcb1dc4cb06ca982d86f1ae5e6"
+  url "https://github.com/pandaCaffeine/diadem/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "aff4670715b5cb6dee01f9a072712e5a01b254db235ade4fdedb18f8033b2909"
   license "MIT"
   depends_on "go" => :build
 
